@@ -7,3 +7,6 @@ Creación hola mundo
 * div
 * image
 * Creación de páginas
+
+```bash
+```
