@@ -1,5 +1,8 @@
+# Omitir por fichero
 alumnos.db
 
+# Omitir por extensión
 *.js
 
+# Omitir por carpeta
 /images/
