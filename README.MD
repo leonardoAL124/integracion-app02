@@ -9,4 +9,5 @@ Creación hola mundo
 * Creación de páginas
 
 ```bash
+cat README.md
 ```
